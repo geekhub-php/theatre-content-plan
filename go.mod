@@ -1,4 +1,4 @@
-module github.com/geekhub-php/theatre-link-map
+module github.com/geekhub-php/theatre-content-plan
 
 go 1.13
 
